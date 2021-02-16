@@ -1,7 +1,7 @@
-var jsonServer = require("json-server");
-var server = jsonServer.create();
-var router = jsonServer.router(require("./db.js")());
-var middlewares = jsonServer.defaults();
+const jsonServer = require("json-server");
+const server = jsonServer.create();
+const router = jsonServer.router(require("./nistdb.js")());
+const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
 server.use(router);
