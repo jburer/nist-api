@@ -31,7 +31,7 @@ Clone the repository and move to the nistapi directory.
 
 ```
 docker build -t <whatever>/nistapi .
-docker run -d -p 3000:3000 --name nistapp <whatever>/nistapp
+docker run -d -p 3000:3000 --name nistapi <whatever>/nistapi
 ```
 
 This will make the app available on
