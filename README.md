@@ -25,6 +25,12 @@ This API is built with JSON server and does what APIs do and just makes the data
 
 It is designed to be run inside a Docker container, but can be run as a node app as well.
 
+## Data Model
+
+For those of you interested in such things: The current data model.
+
+<img src="./images/NIST.gif" alt="NIST Data Model">
+
 ## Docker setup
 
 Clone the repository and move to the nistapi directory.
