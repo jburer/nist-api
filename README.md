@@ -8,12 +8,14 @@ This is my attempt to address a bit of that.
 
 For more info on this effort check out my blog: <a href="http://jburer.wordpress.com" target="_blank">http://jburer.wordpress.com</a>
 
-## API
+## The API
 
 This is the API that makes what I consider the fundemental data in those documents available programatically.
 
 It can be used with a corresponding app for presentation of that data, which is here:
 <a href="https://github.com/jburer/nistapp" target="_blank">https://github.com/jburer/nistapp</a>.
+
+Current build only has FIPS 200. I will add more data as I tackle the various docs.
 
 ## Architecture
 
