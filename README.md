@@ -29,6 +29,9 @@ It is designed to be run inside a Docker container, but can be run as a node app
 
 For those of you interested in such things: The current data model.
 
+<i>NOTE: Since these are JSON files there are no Primary Keys (PKs), Foreign Keys (FKs) or columns. Just
+a product of the modeling software I use.</i>
+
 <img src="./images/NIST.gif" alt="NIST Data Model">
 
 ## Docker setup
