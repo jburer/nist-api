@@ -4,12 +4,14 @@ NIST has a great set of documents that really does establish an incredible found
 for Security and Privacy. The problem is consuming that documentation and making it
 applicable to an enterprise is a herculean task.
 
-To aid in that consumption, I've created an API to at least
-make the fundemental data in those documents available programatically.
-
 Current build only has FIPS 200. I will add more data as I tackle the various docs.
 
 For more info on this effort check out my blog: <a href="http://jburer.wordpress.com" target="_blank">http://jburer.wordpress.com</a>
+
+## API
+
+To aid in that consumption, I've created an API to
+make what I consider the fundemental data in those documents available programatically.
 
 ## Architecture
 
