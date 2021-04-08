@@ -1,58 +1,64 @@
 [
   {
     "Term": "Organization",
-    "Synonyms": [""],
-    "Definition": "A federal agency or, as appropriate, any of its operational elements.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "A federal agency or, as appropriate, any of its operational elements."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Information System",
     "Synonyms": ["System"],
-    "Definition": "A discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information.",
-    "Defined In": {
+    "Definition": [
+      "A discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information."
+    ],
+    "DefinedIn": {
       "Publication": "44 U.S.C., SEC. 3502"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "User",
-    "Synonyms": [""],
-    "Definition": "Individual or (system) process authorized to access an information system.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Individual or (system) process authorized to access an information system."
+    ],
+    "DefinedIn": {
       "Publication": "CNSS Instruction 4009"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Process",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": ["An executing program."],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "NIST SP 800-86"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Device",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": [
       "A combination of components that function together to serve a specific purpose."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "NIST SP 800-152"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
@@ -62,403 +68,460 @@
     "Definition": [
       "A discrete event between a user and a system that supports a business or programmatic purpose."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "NIST 800-63-3"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Access",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": ["Ability to make use of any information system resource."],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "NIST SP 800-161"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Authorization",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": [
       "The process of verifying that a requested action or service is approved for a specific entity."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "NIST SP 800-152"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Permission",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": ["Authorization to perform some action on a system."],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "NISTIR 7316"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Execute",
-    "Synonyms": [""],
-    "Definition": [""],
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Accreditation",
-    "Synonyms": [""],
-    "Definition": "The official management decision given by a senior agency official to authorize operation of an information system and to explicitly accept the risk to agency operations (including mission, functions, image, or reputation), agency assets, or individuals, based on the implementation of an agreed-upon set of security controls.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "The official management decision given by a senior agency official to authorize operation of an information system and to explicitly accept the risk to agency operations (including mission, functions, image, or reputation), agency assets, or individuals, based on the implementation of an agreed-upon set of security controls."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Adequate Security",
-    "Synonyms": [""],
-    "Definition": "Security commensurate with the risk and the magnitude of harm resulting from the loss, misuse, or unauthorized access to or modification of information.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Security commensurate with the risk and the magnitude of harm resulting from the loss, misuse, or unauthorized access to or modification of information."
+    ],
+    "DefinedIn": {
       "Publication": "OMB Circular A-130, Appendix III"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Agency",
     "Synonyms": ["Federal Agency"],
-    "Definition": "Any executive department, military department, government corporation, government controlled corporation, or other establishment in the executive branch of the government (including the Executive Office of the President), or any independent regulatory agency, but does not include: (i) the Government Accountability Office; (ii) the Federal Election Commission; (iii) the governments of the District of Columbia and of the territories and possessions of the United States, and their various subdivisions; or (iv) government-owned contractor-operated facilities, including laboratories engaged in national defense research and production activities.",
-    "Defined In": {
+    "Definition": [
+      "Any executive department, military department, government corporation, government controlled corporation, or other establishment in the executive branch of the government (including the Executive Office of the President), or any independent regulatory agency, but does not include: (i) the Government Accountability Office; (ii) the Federal Election Commission; (iii) the governments of the District of Columbia and of the territories and possessions of the United States, and their various subdivisions; or (iv) government-owned contractor-operated facilities, including laboratories engaged in national defense research and production activities."
+    ],
+    "DefinedIn": {
       "Publication": "44 U.S.C., SEC. 3502"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Authentication",
-    "Synonyms": [""],
-    "Definition": "Verifying the identity of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Verifying the identity of a user, process, or device, often as a prerequisite to allowing access to resources in an information system."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Availability",
-    "Synonyms": [""],
-    "Definition": "Ensuring timely and reliable access to and use of information.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Ensuring timely and reliable access to and use of information."
+    ],
+    "DefinedIn": {
       "Publication": "44 U.S.C., SEC. 3542"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Certification",
-    "Synonyms": [""],
-    "Definition": "A comprehensive assessment of the management, operational, and technical security controls in an information system, made in support of security accreditation, to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for the system.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "A comprehensive assessment of the management, operational, and technical security controls in an information system, made in support of security accreditation, to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for the system."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Confidentiality",
-    "Synonyms": [""],
-    "Definition": "Preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information."
+    ],
+    "DefinedIn": {
       "Publication": "44 U.S.C., SEC. 3542"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 199", "FIPS 200"]
     }
   },
   {
     "Term": "Countermeasure",
     "Synonyms": ["Security Control", "Safeguard"],
-    "Definition": "Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system.",
-    "Defined In": {
+    "Definition": [
+      "Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system."
+    ],
+    "DefinedIn": {
       "Publication": "CNSS Instruction 4009"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Environment",
-    "Synonyms": [""],
-    "Definition": "Aggregate of external procedures, conditions, and objects affecting the development, operation, and maintenance of an information system.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Aggregate of external procedures, conditions, and objects affecting the development, operation, and maintenance of an information system."
+    ],
+    "DefinedIn": {
       "Publication": "CNSS Instruction 4009"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Executive Agency",
-    "Synonyms": [""],
-    "Definition": "An executive department specified in 5 U.S.C., SEC. 101; a military department specified in 5 U.S.C., SEC. 102; an independent establishment as defined in 5 U.S.C., SEC. 104(1); and a wholly-owned Government corporation fully subject to the provisions of 31 U.S.C., CHAPTER 91.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "An executive department specified in 5 U.S.C., SEC. 101; a military department specified in 5 U.S.C., SEC. 102; an independent establishment as defined in 5 U.S.C., SEC. 104(1); and a wholly-owned Government corporation fully subject to the provisions of 31 U.S.C., CHAPTER 91."
+    ],
+    "DefinedIn": {
       "Publication": "41 U.S.C., SEC. 403"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Federal Information System",
-    "Synonyms": [""],
-    "Definition": "An information system used or operated by an executive agency, by a contractor of an executive agency, or by another organization on behalf of an executive agency.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "An information system used or operated by an executive agency, by a contractor of an executive agency, or by another organization on behalf of an executive agency."
+    ],
+    "DefinedIn": {
       "Publication": "40 U.S.C., SEC. 11331"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "High-Impact System",
-    "Synonyms": [""],
-    "Definition": "An information system in which at least one security objective (i.e., confidentiality, integrity, or availability) is assigned a FIPS 199 potential impact value of high.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "An information system in which at least one security objective (i.e., confidentiality, integrity, or availability) is assigned a FIPS 199 potential impact value of high."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Incident",
-    "Synonyms": [""],
-    "Definition": "An occurrence that actually or potentially jeopardizes the confidentiality, integrity, or availability of an information system or the information the system processes, stores, or transmits or that constitutes a violation or imminent threat of violation of security policies, security procedures, or acceptable use policies.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "An occurrence that actually or potentially jeopardizes the confidentiality, integrity, or availability of an information system or the information the system processes, stores, or transmits or that constitutes a violation or imminent threat of violation of security policies, security procedures, or acceptable use policies."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Information",
     "Synonyms": ["Data"],
-    "Definition": "An instance of an information type.",
-    "Defined In": {
+    "Definition": ["An instance of an information type."],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Information Resources",
-    "Synonyms": [""],
-    "Definition": "Information and related resources, such as personnel, equipment, funds, and information technology.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Information and related resources, such as personnel, equipment, funds, and information technology."
+    ],
+    "DefinedIn": {
       "Publication": "44 U.S.C., SEC. 3502"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Information Security",
-    "Synonyms": [""],
-    "Definition": "The protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality, integrity, and availability.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "The protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality, integrity, and availability."
+    ],
+    "DefinedIn": {
       "Publication": "44 U.S.C., SEC. 3542"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Physical Security",
-    "Synonyms": [""],
-    "Definition": [""],
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [],
+    "DefinedIn": {
       "Publication": ""
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Information System Owner",
-    "Synonyms": [""],
-    "Definition": [""],
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Information Technology",
-    "Synonyms": [""],
-    "Definition": "Any equipment or interconnected system or subsystem of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency. For purposes of the preceding sentence, equipment is used by an executive agency if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency which: (i) requires the use of such equipment; or (ii) requires the use, to a significant extent, of such equipment in the performance of a service or the furnishing of a product. The term information technology includes computers, ancillary equipment, software, firmware and similar procedures, services (including support services), and related resources.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Any equipment or interconnected system or subsystem of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency. For purposes of the preceding sentence, equipment is used by an executive agency if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency which: (i) requires the use of such equipment; or (ii) requires the use, to a significant extent, of such equipment in the performance of a service or the furnishing of a product. The term information technology includes computers, ancillary equipment, software, firmware and similar procedures, services (including support services), and related resources."
+    ],
+    "DefinedIn": {
       "Publication": "40 U.S.C., SEC. 1401"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Information Type",
-    "Synonyms": [""],
-    "Definition": "A specific category of information (e.g., privacy, medical, proprietary, financial, investigative, contractor sensitive, security management), defined by an organization or, in some instances, by a specific law, Executive Order, directive, policy, or regulation.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "A specific category of information (e.g., privacy, medical, proprietary, financial, investigative, contractor sensitive, security management), defined by an organization or, in some instances, by a specific law, Executive Order, directive, policy, or regulation."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 199"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Low-Impact System",
-    "Synonyms": [""],
-    "Definition": "An information system in which all three security objectives (i.e., confidentiality, integrity, and availability) are assigned a FIPS 199 potential impact value of low.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "An information system in which all three security objectives (i.e., confidentiality, integrity, and availability) are assigned a FIPS 199 potential impact value of low."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Integrity",
-    "Synonyms": [""],
-    "Definition": "Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity."
+    ],
+    "DefinedIn": {
       "Publication": "44 U.S.C., SEC. 3542"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Management Controls",
-    "Synonyms": [""],
-    "Definition": "The security controls (i.e., safeguards or countermeasures) for an information system that focus on the management of risk and the management of information system security.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "The security controls (i.e., safeguards or countermeasures) for an information system that focus on the management of risk and the management of information system security."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Media",
-    "Synonyms": [""],
-    "Definition": "Physical devices or writing surfaces including, but not limited to, magnetic tapes, optical disks, magnetic disks, Large-Scale Integration (LSI) memory chips, printouts (but not including display media) onto which information is recorded, stored, or printed within an information system.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Physical devices or writing surfaces including, but not limited to, magnetic tapes, optical disks, magnetic disks, Large-Scale Integration (LSI) memory chips, printouts (but not including display media) onto which information is recorded, stored, or printed within an information system."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Moderate-Impact System",
-    "Synonyms": [""],
-    "Definition": "An information system in which at least one security objective (i.e., confidentiality, integrity, or availability) is assigned a FIPS 199 potential impact value of moderate, and no security objective is assigned a FIPS 199 potential impact value of high.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "An information system in which at least one security objective (i.e., confidentiality, integrity, or availability) is assigned a FIPS 199 potential impact value of moderate, and no security objective is assigned a FIPS 199 potential impact value of high."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "National Security Information",
-    "Synonyms": [""],
-    "Definition": "Information that has been determined pursuant to Executive Order 12958 as amended by Executive Order 13292, or any predecessor order, or by the Atomic Energy Act of 1954, as amended, to require protection against unauthorized disclosure and is marked to indicate its classified status.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Information that has been determined pursuant to Executive Order 12958 as amended by Executive Order 13292, or any predecessor order, or by the Atomic Energy Act of 1954, as amended, to require protection against unauthorized disclosure and is marked to indicate its classified status."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "National Security System",
-    "Synonyms": [""],
-    "Definition": "Any information system (including any telecommunications system) used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency— (i) the function, operation, or use of which involves intelligence activities; involves cryptologic activities related to national security; involves command and control of military forces; involves equipment that is an integral part of a weapon or weapons system; or is critical to the direct fulfillment of military or intelligence missions (excluding a system that is to be used for routine administrative and business applications, for example, payroll, finance, logistics, and personnel management applications); or (ii) is protected at all times by procedures established for information that have been specifically authorized under criteria established by an Executive Order or an Act of Congress to be kept classified in the interest of national defense or foreign policy.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "Any information system (including any telecommunications system) used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency—",
+      "(i) the function, operation, or use of which involves intelligence activities; involves cryptologic activities related to national security; involves command and control of military forces; involves equipment that is an integral part of a weapon or weapons system; or is critical to the direct fulfillment of military or intelligence missions (excluding a system that is to be used for routine administrative and business applications, for example, payroll, finance, logistics, and personnel management applications); or (ii) is protected at all times by procedures established for information that have been specifically authorized under criteria established by an Executive Order or an Act of Congress to be kept classified in the interest of national defense or foreign policy."
+    ],
+    "DefinedIn": {
       "Publication": "44 U.S.C., SEC. 3542"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Operational Controls",
-    "Synonyms": [""],
-    "Definition": "The security controls (i.e., safeguards or countermeasures) for an information system that primarily are implemented and executed by people (as opposed to systems).",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "The security controls (i.e., safeguards or countermeasures) for an information system that primarily are implemented and executed by people (as opposed to systems)."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
-    "Term": "Potential Impact",
-    "Synonyms": [""],
-    "Definition": "The loss of confidentiality, integrity, or availability could be expected to have a limited adverse effect, a serious adverse effect, or a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.",
-    "Defined In": {
-      "Publication": "FIPS 199"
+    "Term": "Impact",
+    "Synonyms": [],
+    "Definition": [
+      "The effect on organizational operations, organizational assets, individuals, other organizations, or the Nation (including the national security interests of the United States) of a loss of confidentiality, integrity, or availability of information or an information system."
+    ],
+    "DefinedIn": {
+      "Publication": "SP 800-53 Rev. 4"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Records",
-    "Synonyms": [""],
-    "Definition": "All books, papers, maps, photographs, machine-readable materials, or other documentary materials, regardless of physical form or characteristics, made or received by an agency of the United States Government under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations or other activities of the Government or because of the informational value of the data in them.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "All books, papers, maps, photographs, machine-readable materials, or other documentary materials, regardless of physical form or characteristics, made or received by an agency of the United States Government under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations or other activities of the Government or because of the informational value of the data in them."
+    ],
+    "DefinedIn": {
       "Publication": "44 U.S.C. SEC. 3301"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Risk",
-    "Synonyms": [""],
-    "Definition": "The level of impact on organizational operations (including mission, functions, image, or reputation), organizational assets, or individuals resulting from the operation of an information system given the potential impact of a threat and the likelihood of that threat occurring.",
-    "Defined In": {
+    "Synonyms": [],
+    "Definition": [
+      "The level of impact on organizational operations (including mission, functions, image, or reputation), organizational assets, or individuals resulting from the operation of an information system given the potential impact of a threat and the likelihood of that threat occurring."
+    ],
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Risk Management",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": [
       "The process of managing risks to organizational operations (including mission, functions, image, or reputation), organizational assets, or individuals resulting from the operation of an information system, and includes:",
       {
@@ -469,10 +532,10 @@
         ]
       }
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
@@ -482,37 +545,37 @@
     "Definition": [
       "Protective measures prescribed to meet the security requirements (i.e., confidentiality, integrity, and availability) specified for an information system. Safeguards may include security features, management constraints, personnel security, and security of physical structures, areas, and devices."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "CNSS Instruction 4009 Adapted"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Sanitization",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": [
       "Process to remove information from media such that information recovery is not possible. It includes removing all labels, markings, and activity logs."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "CNSS Instruction 4009 Adapted"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Security Category",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": [
       "The characterization of information or an information system based on an assessment of the potential impact that a loss of confidentiality, integrity, or availability of such information or information system would have on organizational operations, organizational assets, or individuals."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "FIPS 199"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
@@ -521,47 +584,47 @@
     "Definition": [
       "The management, operational, and technical controls (i.e., safeguards or countermeasures) prescribed for an information system to protect the confidentiality, integrity, and availability of the system and its information."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "FIPS 199"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Security Control Baseline",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": [
       "The set of minimum security controls defined for a low-impact, moderate-impact, or high-impact information system."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Security Objective",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": ["Confidentiality, integrity, or availability."],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "FIPS 199"
     },
-    "Used In": {
-      "Publication": ["FIPS 200"]
+    "UsedIn": {
+      "Publication": ["FIPS 200", "FIPS 199"]
     }
   },
   {
     "Term": "Security Requirements",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": [
       "Requirements levied on an information system that are derived from applicable laws, Executive Orders, directives, policies, standards, instructions, regulations, or procedures, or organizational mission/business case needs to ensure the confidentiality, integrity, and availability of the information being processed, stored, or transmitted."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
@@ -571,36 +634,36 @@
     "Definition": [
       "Formal document that provides an overview of the security requirements for an information system and describes the security controls in place or planned for meeting those requirements."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "NIST SP 800-18 Rev. 1]"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Technical Controls",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": [
       "The security controls (i.e., safeguards or countermeasures) for an information system that are primarily implemented and executed by the information system through mechanisms contained in the hardware, software, or firmware components of the system."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Threat",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": [
       "Any circumstance or event with the potential to adversely impact organizational operations (including mission, functions, image, or reputation), organizational assets, or individuals through an information system via unauthorized access, destruction, disclosure, modification of information, and/or denial of service. Also, the potential for a threat-source to successfully exploit a particular information system vulnerability."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "CNSS Instruction 4009 Adapted"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
@@ -610,24 +673,50 @@
     "Definition": [
       "The intent and method targeted at the intentional exploitation of a vulnerability or a situation and method that may accidentally trigger a vulnerability."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "FIPS 200"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
     }
   },
   {
     "Term": "Vulnerability",
-    "Synonyms": [""],
+    "Synonyms": [],
     "Definition": [
       "Weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source."
     ],
-    "Defined In": {
+    "DefinedIn": {
       "Publication": "CNSS Instruction 4009 Adapted"
     },
-    "Used In": {
+    "UsedIn": {
       "Publication": ["FIPS 200"]
+    }
+  },
+  {
+    "Term": "Security",
+    "Synonyms": [],
+    "Definition": [
+      "A condition that results from the establishment and maintenance of protective measures that enable an organization to perform its mission or critical functions despite risks posed by threats to its use of systems. Protective measures may involve a combination of deterrence, avoidance, prevention, detection, recovery, and correction that should form part of the organization’s risk management approach."
+    ],
+    "DefinedIn": {
+      "Publication": "SP 800-37 Rev. 2"
+    },
+    "UsedIn": {
+      "Publication": ["SP 800-37 Rev. 2"]
+    }
+  },
+  {
+    "Term": "Privacy",
+    "Synonyms": [],
+    "Definition": [
+      "The right of a party to maintain control over and confidentiality of information about itself."
+    ],
+    "DefinedIn": {
+      "Publication": "IR 4734"
+    },
+    "UsedIn": {
+      "Publication": ["IR 4734"]
     }
   }
 ]
