@@ -9,7 +9,7 @@ module.exports = function () {
     Publications: publicationRoute,
     Roles: businessroleRoute,
     Glossary: glossaryRoute,
-    MinimumRequirements: FIPS200Route,
+    FIPS200: FIPS200Route,
     FIPS199: FIPS199Route
   };
 };
