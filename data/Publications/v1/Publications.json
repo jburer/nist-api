@@ -70,15 +70,12 @@
     "Link": "https://doi.org/10.6028/NIST.CSWP.04162018"
   },
   {
-    "Publication": "",
-    "Title": "",
-    "SubTitle": "",
-    "CommonName": "",
-    "Topic": "",
-    "Series": "",
-    "Number": "",
-    "Version": "",
-    "ReleaseDate": "",
-    "Link": ""
+    "Publication": "FIPS 199",
+    "Title": "Standards for Security Categorization of Federal Information and Information Systems",
+    "Series": "FIPS",
+    "Number": "199",
+    "Version": "1",
+    "ReleaseDate": "2004-02-01",
+    "Link": "https://doi.org/10.6028/NIST.FIPS.199"
   }
 ]
